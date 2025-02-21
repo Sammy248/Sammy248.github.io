@@ -18,5 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently studying Computer Games Development at the University of Westminster
+I am a passionate game developer currently studying Computer Games Development at the University of Westminster
+
 
