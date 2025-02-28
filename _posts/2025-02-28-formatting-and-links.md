@@ -1,0 +1,19 @@
+---
+layout: post
+title: a post with formatting and links
+date: 2025-02-28 16:40:16
+description: march & april, looking forward to summer
+tags: coursework
+categories: sample-posts
+---
+During my second semester of the first year of uni, I worked on a 2D platformer along with some of my classmates. I created the pitch, and a large part of the design document, as well as creating and programming the sound effects & music in the game.
+
+github link>>
+####  list
+
+
+<hr>
+
+
+
+mno
