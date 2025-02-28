@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with formatting and links
+title: Thanatos Coursework
 date: 2025-02-28 16:40:16
-description: march & april, looking forward to summer
+description: created May 2024
 tags: coursework
 categories: sample-posts
 ---
