@@ -2,7 +2,7 @@
 layout: page
 title: Thanatos
 description: Coursework May 2024
-img: assets/img/12.jpg
+img: assets/img/Thanatos.jpg
 importance: 3
 category: coursework
 related_publications: false
@@ -10,6 +10,7 @@ related_publications: false
 
 During my second semester of the first year of uni, I worked on a 2D platformer along with some of my classmates. I created the pitch, and a large part of the design document, as well as creating and programming the sound effects & music in the game.
 
+<iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/2702310">Thanatos by Null Yagi, arseniy77, HumeyraFA, moiez, Samm</iframe> 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
