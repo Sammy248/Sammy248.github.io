@@ -4,7 +4,7 @@ title: Thanatos
 description: Coursework May 2024
 img: assets/img/Thanatos.png
 importance: 3
-category: coursework
+category: work
 related_publications: false
 ---
 
