@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle
+subtitle: Computer Games Programmer & Designer
 
 profile:
   align: right
