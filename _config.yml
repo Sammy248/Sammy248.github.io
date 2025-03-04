@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sam Chaplin Portfolio
+title: Samuel Chaplin Portfolio
 first_name: Samuel
 middle_name: T.
 last_name: Chaplin
 email: sthchaplin@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  aaaaaaaaaaaaa
+  Contact me through email or LinkedIn
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
