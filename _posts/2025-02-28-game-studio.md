@@ -6,6 +6,10 @@ description:
 tags: coursework
 categories: sample-posts
 ---
-q
+We are almost finished with out game design document for the group coursework!
+The game is going to be a wave shooter where enemies from different times and eras will come for you in endless waves.
+The game is going well so far.
+
+
 
 
