@@ -6,7 +6,7 @@ subtitle: Computer Games Programmer & Designer
 
 profile:
   align: right
-  image: you.gif
+  image: sam.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>London, UK</p>
